@@ -8,14 +8,6 @@
 Updated Portfolio can be seen here 
   [link to Portfolio](SoftCulture.tech)
 <br />
-## Pagespeed Score
-
-<img src='https://github.com/RohitSingh9572/RohitSingh9572.github.io/blob/master/pagespeed.png?raw=true' />
-<br />
-
-`No copyright issues.
-Feel free to copy anything and everything from this website.
-If you need any help, ping me !`
 ________________________________________________________________________________________
 
 Cheers, <br>
