@@ -1,4 +1,4 @@
-# Roshan Kr Soni (Developer Portfolio)
+# Soft Culture Academy
 
 
 **PWA updated** to the *portfolio* and **loading speed** optimized 
@@ -6,11 +6,11 @@
 **Technologies used** : HTML5, CSS3, JS, ES6
 
 Updated Portfolio can be seen here 
-  [link to Portfolio](https://roshankrsoni.github.io)
+  [link to Portfolio](SoftCulture.tech)
 <br />
 ## Pagespeed Score
 
-<img src='https://github.com/Roshankrsoni/Roshankrsoni.github.io/blob/master/pagespeed.png?raw=true' />
+<img src='https://github.com/RohitSingh9572/RohitSingh9572.github.io/blob/master/pagespeed.png?raw=true' />
 <br />
 
 `No copyright issues.
@@ -19,8 +19,8 @@ If you need any help, ping me !`
 ________________________________________________________________________________________
 
 Cheers, <br>
-Roshan Kr Soni<br>
-mailto: Roshankrsoni1@gmail.com
+Soft Culture Academy<br>
+mailto: SoftCultureAcademy@gmail.com
 ________________________________________________________________________________________
 
 I sincerely admit ! Not everything thing you saw on the website was developed by me from
@@ -31,5 +31,5 @@ or reproduced from the open source public code.
 
 Name  | Roles
 ------------ | -------------
-:sunglasses: [@RoshanKrSoni](https://github.com/Roshankrsoni) | **Owner**
-:nerd_face: [@AdityaKrSoni](https://github.com/roshankr-asort)  | **Contributor**
+:sunglasses: [@ManishSharma1402](https://github.com/Roshankrsoni) | **Contributor**
+:nerd_face: [@RohitSingh9572](https://github.com/roshankr-asort)  | **Contributor**
