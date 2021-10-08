@@ -23,5 +23,5 @@ or reproduced from the open source public code.
 
 Name  | Roles
 ------------ | -------------
-:sunglasses: [@ManishSharma1402](https://github.com/Roshankrsoni) | **Contributor**
-:nerd_face: [@RohitSingh9572](https://github.com/roshankr-asort)  | **Contributor**
+:sunglasses: [@ManishSharma1402](https://github.com/ManishSharma1402/) | **Contributor**
+:nerd_face: [@RohitSingh9572](https://github.com/RohitSingh9572)  | **Contributor**
